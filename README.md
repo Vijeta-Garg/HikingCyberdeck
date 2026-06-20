@@ -7,10 +7,11 @@ What does the project do?
 The project is a dual-display cyberdeck optimized for hiking. It is an offline "mini computer" which can scroll through files such as a hiking survival guide. At the same time, on another display it can display the current pressure and altitude a hiker is at in Chinese lettering. The cyberdeck itself is controlled by 3 CherryMX switches and is housed inside a sunglass case! 
 
 
-How does it all fit together:
-The sunglass case has different "layers"
+How does it all fit together?
+The sunglass case has different "layers":
+
 The top layer is the two displays which live on the lid 
 
-Underneath that, there are 3 mounted CherryMX switches and a port to connect to the pico underneath. 
+Below that, there are 3 mounted CherryMX switches and a port to connect to the pico underneath. 
 
 And on the very bottom under the switches there's the perfboard where the raspberry pico w, battery, and environment sensor live. 
