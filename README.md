@@ -15,3 +15,6 @@ The top layer is the two displays which live on the lid
 Below that, there are 3 mounted CherryMX switches and a port to connect to the pico underneath. 
 
 And on the very bottom under the switches there's the perfboard where the raspberry pico w, battery, and environment sensor live. 
+
+
+**here is the link to my demo video!:** https://youtu.be/0BxvbPZM9zg
