@@ -16,5 +16,7 @@ Below that, there are 3 mounted CherryMX switches and a port to connect to the p
 
 And on the very bottom under the switches there's the perfboard where the raspberry pico w, battery, and environment sensor live. 
 
+<img width="1776" height="1022" alt="image" src="https://github.com/user-attachments/assets/40ca1345-b739-4456-bed3-6bcaf5c753b0" />
+
 
 **here is the link to my demo video!:** https://youtu.be/0BxvbPZM9zg
