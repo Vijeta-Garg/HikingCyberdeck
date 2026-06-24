@@ -24,11 +24,12 @@ Currently not 3D printed yet, but the CAD files are ready and I am using a cardb
 # Firmware
 The firmware adds on top of pre-existing sensor and display libraries (most notably gc and framebuffer) to display sensor values (like altitude) onto the small display. Using a custom-made Chinese bitmap font library, the firmware prints to the smaller display in Chinese lettering. At the same time, it also coordinates SPI activation between both the large and small displays which are wired onto the same SPI bus. The firware also takes the external buttons as inputs for when to switch display or when to switch pages on the larger display. The firware additionally calculates how many pages of hiking survival guide text there are on the large display and renders them onto the large display in an appropriate manner (without breaking up too much text or going off the page). 
 Usage of each file is as following:
-Pico_ePaper_2_7_V2.py --> library for the ePaper 2.7in V2 display (pre-existing) 
-bmp280.py --> library for environment sensor (pre-existing) 
-bmpWithSmallDisp.py --> module I made (which includes some pre-existing library code for 1.54'' display) which displays environmental stats in Chinese lettering on the small display 
-ChineseNum.py --> bitmap library I refer to in bmpWithSmallDisp.py helps me map characters onto small display 
-main.py --> accepts button input, calculates and renders text info for the large display, controls SPI activation/switching, imports bmpWithSmallDisp to also switch to small display rendering 
++ Pico_ePaper_2_7_V2.py --> library for the ePaper 2.7in V2 display (pre-existing) 
++ bmp280.py --> library for environment sensor (pre-existing) 
++ bmpWithSmallDisp.py --> module I made (which includes some pre-existing library code for 1.54'' display) which displays environmental stats in
++ Chinese lettering on the small display 
++ ChineseNum.py --> bitmap library I refer to in bmpWithSmallDisp.py helps me map characters onto small display 
++ main.py --> accepts button input, calculates and renders text info for the large display, controls SPI activation/switching, imports bmpWithSmallDisp to also switch to small display rendering 
 
 # How does it all fit together? *NOTE ADD MORE HERE*
 The sunglass case has different "layers": 
