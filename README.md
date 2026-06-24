@@ -13,13 +13,6 @@ Please note! The hikerdeck is currently perfboarded not PCBed! The entire wiring
 <img width="1235" height="784" alt="image" src="https://github.com/user-attachments/assets/a1266ec9-c9fb-4093-b475-64de4d5bee3d" />
 
 
-# Layout:
-I drew a small diagram to help you understand where everything fits inside the casing! 
-
-
-# Casing:
-Currently not 3D printed yet, but the CAD files are ready and I am using a cardboard case right now! 
-
 
 # Firmware
 The firmware adds on top of pre-existing sensor and display libraries (most notably gc and framebuffer) to display sensor values (like altitude) onto the small display. Using a custom-made Chinese bitmap font library, the firmware prints to the smaller display in Chinese lettering. At the same time, it also coordinates SPI activation between both the large and small displays which are wired onto the same SPI bus. The firware also takes the external buttons as inputs for when to switch display or when to switch pages on the larger display. The firware additionally calculates how many pages of hiking survival guide text there are on the large display and renders them onto the large display in an appropriate manner (without breaking up too much text or going off the page). 
@@ -30,6 +23,14 @@ Usage of each file is as following:
 + Chinese lettering on the small display 
 + ChineseNum.py --> bitmap library I refer to in bmpWithSmallDisp.py helps me map characters onto small display 
 + main.py --> accepts button input, calculates and renders text info for the large display, controls SPI activation/switching, imports bmpWithSmallDisp to also switch to small display rendering 
+
+# Layout:
+I drew a small diagram to help you understand where everything fits inside the casing! 
+
+
+# Casing:
+Currently not 3D printed yet, but the CAD files are ready and I am using a cardboard case right now! 
+
 
 # How does it all fit together? *NOTE ADD MORE HERE*
 The sunglass case has different "layers": 
