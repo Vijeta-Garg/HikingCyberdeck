@@ -10,7 +10,7 @@ The project is a dual-display cyberdeck optimized for hiking. It is an offline "
 
 # Schematic:
 Please note! The hikerdeck is currently perfboarded not PCBed! The entire wiring is contained inside the casing and once spread out it looks like this:
-<img width="2470" height="1568" alt="image" src="https://github.com/user-attachments/assets/a1266ec9-c9fb-4093-b475-64de4d5bee3d" />
+<img width="1235" height="784" alt="image" src="https://github.com/user-attachments/assets/a1266ec9-c9fb-4093-b475-64de4d5bee3d" />
 
 
 # Layout:
