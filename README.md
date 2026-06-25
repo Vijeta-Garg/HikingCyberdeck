@@ -34,12 +34,11 @@ I drew a small diagram to help you understand where everything fits inside the c
 
 # Casing:
 Currently not 3D printed yet, but the CAD files are ready and I am using a cardboard case right now! 
-<img width="1108" height="900" alt="image" src="https://github.com/user-attachments/assets/01336b22-bec8-4ccc-ad4d-c275af80a395" />
+<img width="798" height="856" alt="image" src="https://github.com/user-attachments/assets/67af89f6-8c0f-4604-bd48-797845a646aa" />
 
 This is a cut open view of the whole case so you can see that there is a "top layer" where the displays are housed and a "bottom layer" with space for wiring and pico w. 
 
-<img width="1142" height="662" alt="image" src="https://github.com/user-attachments/assets/bc3934af-a321-4b16-8dbe-09aeaf2c8bde" />
-
+<img width="1108" height="800" alt="image" src="https://github.com/user-attachments/assets/498e3388-6381-4c54-9f1b-de5aa3ab3cb7" />
 
 ^This is how the entire case would look assembled together, probably with screws to hold top and bottom layers in place. CAD folder has a 3D design version of the entire casing together and then parts of the casing which may be easier to CAD.
 
