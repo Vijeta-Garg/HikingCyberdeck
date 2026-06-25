@@ -50,7 +50,7 @@ This is a cut open view of the whole case so you can see that there is a "top la
 3. Plug in the small display using the SPI1 pins on the pico w pinout (some specified in firmware) 
 4. Plug in sensor via 12C pins on BMPE-280 sensor (refer to firmware for definitions!) 
 5. Run the small display with sensor script and the firmware should both print environment data in terminal and show chinese version of that on small display (imports custom Chinese font library, framebuffer display etc etc) 
-6. Plug in large display and wire up the 3 Cherry MX pins as well
+6. Plug in large display and wire up the 3 Cherry MX pins as well. Import the longDistanceTrails.txt file so that it can be rendered onto the large display! 
 7. Run the large display script (which imports the small display script and manages all SPI activation etc)
 8. CAD casing from files and then screw the casing together
 9. Fit all of the wiring inside the casing ! 
