@@ -44,14 +44,6 @@ This is a cut open view of the whole case so you can see that there is a "top la
 
 ^This is how the entire case would look assembled together, probably with screws to hold top and bottom layers in place. CAD folder has a 3D design version of the entire casing together and then parts of the casing which may be easier to CAD.
 
-# How does it all fit together? 
-The sunglass case has different "layers": 
-The top layer is the two displays which live on the lid 
-Below that, there are 3 mounted CherryMX switches and a port to connect to the pico underneath. 
-And on the very bottom under the switches there's the perfboard where the raspberry pico w, battery, and environment sensor live. 
-
-<img width="678" height="972" alt="image" src="https://github.com/user-attachments/assets/e5e1e2ea-ae3e-4d67-8cb4-797d9b7f6b5b" />
-
 
 # How to build this?
 1. Import firmware to VS code and connect pico w to VS code via pico extension on VS code 
@@ -62,6 +54,15 @@ And on the very bottom under the switches there's the perfboard where the raspbe
 7. Run the large display script (which imports the small display script and manages all SPI activation etc)
 8. CAD casing from files and then screw the casing together
 9. Fit all of the wiring inside the casing ! 
+
+# How does it all fit together? 
+The sunglass case has different "layers": 
+The top layer is the two displays which live on the lid 
+Below that, there are 3 mounted CherryMX switches and a port to connect to the pico underneath. 
+And on the very bottom under the switches there's the perfboard where the raspberry pico w, battery, and environment sensor live. 
+
+<img width="678" height="972" alt="image" src="https://github.com/user-attachments/assets/e5e1e2ea-ae3e-4d67-8cb4-797d9b7f6b5b" />
+
 
 
 **here is the link to my demo video!:** https://youtu.be/0BxvbPZM9zg
