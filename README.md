@@ -65,7 +65,7 @@ And on the very bottom under the switches there's the perfboard where the raspbe
 
 
 # BOM (proper formatting in bom.csv of the repo) 
-<img width="2782" height="440" alt="image" src="https://github.com/user-attachments/assets/f08ce694-8d6b-4640-9658-f8c633202ff0" />
+<img width="2782" height="440" alt="image" src="https://github.com/user-attachments/assets/ee3c4440-6c8d-4801-bfca-a0208b037066" />
 
 
 **here is the link to my demo video!:** https://youtu.be/0BxvbPZM9zg
