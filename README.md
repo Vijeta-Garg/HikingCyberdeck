@@ -30,16 +30,17 @@ Usage of each file is as following:
 
 # Layout:
 I drew a small diagram to help you understand where everything fits inside the casing! 
+<img width="2632" height="1374" alt="image" src="https://github.com/user-attachments/assets/7814a38a-f961-48ce-a666-6ec8edd1fc5b" />
 
 
 # Casing:
 Currently not 3D printed yet, but the CAD files are ready and I am using a cardboard case right now! 
-<img width="798" height="856" alt="image" src="https://github.com/user-attachments/assets/67af89f6-8c0f-4604-bd48-797845a646aa" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/67af89f6-8c0f-4604-bd48-797845a646aa" />
 
 This is a cut open view of the whole case so you can see that there is a "top layer" where the displays are housed and a "bottom layer" with space for wiring and pico w. 
 
 
-<img width="1448" height="988" alt="image" src="https://github.com/user-attachments/assets/b8ba82ba-75e5-45cb-bcde-4d5465d836cb" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b8ba82ba-75e5-45cb-bcde-4d5465d836cb" />
 
 ^This is how the entire case would look assembled together, probably with screws to hold top and bottom layers in place. CAD folder has a 3D design version of the entire casing together and then parts of the casing which may be easier to CAD.
 
