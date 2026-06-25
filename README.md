@@ -64,15 +64,8 @@ And on the very bottom under the switches there's the perfboard where the raspbe
 <img width="678" height="972" alt="image" src="https://github.com/user-attachments/assets/e5e1e2ea-ae3e-4d67-8cb4-797d9b7f6b5b" />
 
 
-# BOM 
-SR. No	Items	Quantity	Unit Price	Total Price	URL
-1	Raspberry Pico W	1	$6.00	$6.00	https://www.digikey.com/en/products/detail/raspberry-pi/SC0918/16608263
-2	E-paper Display Waveshare 2.7in Version 2.2 + 8 Pin Header	1	$18.95	$18.95	https://www.amazon.com/Display-Raspberry-Arduino-200x200-Interface/dp/B0DCYZS5BC/ref=sr_1_2?crid=226FPRV9VCF06&dib=eyJ2IjoiMSJ9.98kAT0g67KxKBucByNFecZB1nF47u8bZJCAO4ysvo9RrHcnjZFJLQE3xDZMs3EE132TUiFJJjdxqDkLtLrn14a2y4qKYXGnheVdWL_Iirih1Wufw-bHQgzVBC3iwb6sXMuYsiW7CCzP9o4N8OEbltC3cdX0t4t6MM8yMP7vnn4vJDzEJiFX5ZllrAXJ-U8ZQ0K3rkIVB6x686RY0VUpy9nIJVFl5WCiPs4hva2aTfho.TaOn-1ulH-Ulg-UsMeqbGm0eDYkfaPdBGgYeEkRNmIM&dib_tag=se&keywords=e-paper+mini+screen&qid=1779568258&sprefix=e-paper+mini+screen+%2Caps%2C123&sr=8-2
-3	E-paper Display Waveshare 1.54in Version 1.2 + 8 Pin Header	1	$27.99	$27.99	https://www.amazon.com/2-7inch-HAT-Resolution-Electronic-Communicating/dp/B075FQKSZ9/ref=sr_1_4?crid=1YEDTIZCGIHC5&dib=eyJ2IjoiMSJ9.MkWONqJEJMXL7EeR_VqIMI0mskpZAIRGp-sOJKn15f3ha55h1-D_fB6ar5EhX6yM0fXr1RzKdYtbYLuQbARliqQzYzsqwNc2FlaUoW36qx-te8946rYBDoRsMVcfqcel4fdEfFjjM9CW37EfUj0apTxiPLjqY-c0i6mha94uZ3d4cKAVLZsRg9n_FctjgvRSClhwjxikwAAq8SME739xo9wA2JDA-SIgOOpkuWf8rcQ.qEbtBHSm-gqOTC4SNgwUyNB_hhtczFgw8zPAuQd29Ac&dib_tag=se&keywords=Waveshare+2.7inch+E-Ink+Display+Module&qid=1779569280&sprefix=waveshare+2.7inch+e-ink+display+module%2Caps%2C163&sr=8-4
-4	Sunglass case	1	$7.99	$7.99	self sourced
-5	Perfboard 2.36inx1.57in	1	$1.89	#1.89	https://www.amazon.com/QSYZAIL-Perfboard-Compatible-Soldering-Protoboard/dp/B0G4QTPVZ8/ref=sr_1_2_sspa?crid=2P8ZRO2I1NXGB&dib=eyJ2IjoiMSJ9.M8d2MJLl8AKNjMwCTp0yFC0ME6G8zfO4gvUo6L0jIGGx_wnCGgM8lQp7hlAXMXPnMXKau2CMub9if_eqzj1cSMVj4EyKvyP8evmZoOnde9HTvQcrYAM7IKdfKK3DFIiwvoalyWazEzmIPnnKmfwvt-dr0D_M4q8okxlPfiDC8d93XiDwaUwZY-IMiUC2O6GofukJ47_V-0WYtSF08Dn8xJEjAON2fU_wiiG7csqa_N4.kCoNEuowSr_RrcXdWONYP5epzTGgEgUyBwwbLB-B7Yc&dib_tag=se&keywords=perfboard&qid=1782333543&sprefix=perfb%2Caps%2C463&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-7	GY-BMPE280 Sensor	1	$6.99	$6.99	https://www.amazon.com/Atmospheric-Pressure-Temperature-Humidity-GY-BME280/dp/B0DHPCFJD6/ref=sr_1_10?dib=eyJ2IjoiMSJ9.e_GjIvhBjSbWD8WF9xrJUMNWPPxWbG0MXjbnFQmEe8HRNLzufZ_m0UWhpkfiR7dfR9jlF3FNKRCkyh-dC5t5QP5tBRwrNmEamCs9IF8KOX5OnvtaaQpta1t4JYtR9AvntXXrMlcDBN5HTEAuKV59jT5MYSLVlSOfqznUNa8ahZATV5vXsYJPGZ8HqaYi3EwzRYo1uuHYJo9nfroMo49HwOkA7GfNfV5FAm-I5cmxv50.w_6bA4F7KdXcDlMuKgrQSGmmIarEpHfajHYqlgIJmNg&dib_tag=se&keywords=i2c%2Btemperature%2Bsensor&qid=1779573060&sr=8-10&th=1
-8	CherryMX switches	3	$0.44	$1.33	https://www.amazon.com/Cherry-Mechanical-Keyboard-Switches-Noticeable/dp/B0FYR9Z777/ref=sr_1_1_sspa?crid=258S0CKHWJ7KO&dib=eyJ2IjoiMSJ9.BJOR7UjzVwAi9dwLvX0xg2kxr_0v6ka9V8xO_J8Pnk3HVHHewCzfBSIg3gcA0iZaNKvwB_rOU6iVkaR8KeRPE921DkPDIlnl9nUS5567vIf34oV3kAybrfE7W137iuuUSauMjqtigMWQHgBpiS-CZRolO6jOWXlI1drjax9ssP398osQkLtJzyYteKJl0nb0Okwh-XQR8-_skLy9sBHKgzEBtU1YRF5KsbXQMDtBioo.8a8IhgzvNoBK9NwUgTGo7SFJVD3p84jZvQz1e8Z4v7I&dib_tag=se&keywords=cherry+mx+switches&qid=1782333643&sprefix=cherry+mx+swithes%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-Total	8	9		$82.25?	
+# BOM (proper formatting in bom.csv of the repo) 
+<img width="2782" height="440" alt="image" src="https://github.com/user-attachments/assets/f08ce694-8d6b-4640-9658-f8c633202ff0" />
+
 
 **here is the link to my demo video!:** https://youtu.be/0BxvbPZM9zg
