@@ -7,6 +7,10 @@ My Instagram feed inspired me to make a cyberdeck, offline computers housed in c
 
 # What does the project do?
 The project is a dual-display cyberdeck optimized for hiking. It is an offline "mini computer" which can scroll through files such as a hiking survival guide. At the same time, on another display it can display the current pressure and altitude a hiker is at in Chinese lettering. The cyberdeck itself is controlled by 3 CherryMX switches and is housed inside a sunglass case! 
+In summary, the main features include:
+- Large screen displays hiking survival text uploaded by computer
+- Small screen displays environmental data in Chinese lettering
+- You can control back/forward pages and turning the small display on and off via 3 Cherry MX keys 
 
 # Schematic:
 Please note! The hikerdeck is currently perfboarded not PCBed! The entire wiring is contained inside the casing and once spread out it looks like this:
@@ -32,9 +36,12 @@ I drew a small diagram to help you understand where everything fits inside the c
 Currently not 3D printed yet, but the CAD files are ready and I am using a cardboard case right now! 
 <img width="1108" height="900" alt="image" src="https://github.com/user-attachments/assets/01336b22-bec8-4ccc-ad4d-c275af80a395" />
 
+This is a cut open view of the whole case so you can see that there is a "top layer" where the displays are housed and a "bottom layer" with space for wiring and pico w. 
+
 <img width="1142" height="662" alt="image" src="https://github.com/user-attachments/assets/bc3934af-a321-4b16-8dbe-09aeaf2c8bde" />
 
 
+^This is how the entire case would look assembled together, probably with screws to hold top and bottom layers in place. CAD folder has a 3D design version of the entire casing together and then parts of the casing which may be easier to CAD.
 
 # How does it all fit together? *NOTE ADD MORE HERE*
 The sunglass case has different "layers": 
